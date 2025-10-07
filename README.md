@@ -36,12 +36,12 @@ O programa possui as seguintes funcionalidades, cumprindo todos os requisitos do
 Para compilar e executar o projeto, é necessário ter o compilador GCC instalado e configurado corretamente no PATH do sistema.
 
 1.  **Navegue até a pasta do projeto**
-    Abra um terminal e use o comando `cd` para navegar até o diretório onde o arquivo `batalha_naval_habilidades.c` se encontra.
+    Abra um terminal e use o comando `cd` para navegar até o diretório onde o arquivo `batalha_naval.c` se encontra.
 
 2.  **Compile o código-fonte**
     Execute o seguinte comando no terminal:
     ```bash
-    gcc batalha_naval_habilidades.c -o batalha_naval.exe
+    gcc batalha_naval.c -o batalha_naval.exe
     ```
 
 3.  **Execute o programa**
